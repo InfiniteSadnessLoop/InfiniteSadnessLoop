@@ -1,10 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Tarek Hossain</h1>
-<h3 align="center">Computer Science Student @ BRAC University</h3>
-
 <p align="center">
   <img src="Psyduck.jpg" width="350" alt="Psyduck">
 </p>
+
+<h1 align="center">Hi 👋, I'm Tarek Hossain</h1>
+<h3 align="center">Computer Science Student @ BRAC University</h3>
+
 
 ---
 
