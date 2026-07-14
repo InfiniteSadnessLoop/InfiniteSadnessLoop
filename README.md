@@ -52,8 +52,9 @@
 ---
 ## 🤝 Connect With Me
 
-- 📧 **Email:** tarek.hossain90267@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/tarek-hossain-26ab34262
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/tarekhossain.tarek.731)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/_fighting_demons_999/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](www.linkedin.com/in/tarek-hossain-wrld)
 
 ---
 
