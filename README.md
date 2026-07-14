@@ -36,7 +36,6 @@
 - 📖 Learning better software engineering practices
 
 ---
----
 
 ## 🤝 Connect With Me
 
