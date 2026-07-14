@@ -37,6 +37,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=InfiniteSadnessLoop&show_icons=true&theme=dark&hide_border=true" width="49%" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=InfiniteSadnessLoop&layout=compact&theme=dark&hide_border=true" width="37%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfiniteSadnessLoop&theme=dark&hide_border=true" width="60%" />
+</p>
+
+---
 ## 🤝 Connect With Me
 
 - 📧 **Email:** tarek.hossain90267@gmail.com
