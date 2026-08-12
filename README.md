@@ -49,7 +49,7 @@
     width="49%"
     alt="Tarek's GitHub Stats"
   />
-
+<p align="center">
   <img
     src="./profile/top-langs.svg"
     width="49%"
