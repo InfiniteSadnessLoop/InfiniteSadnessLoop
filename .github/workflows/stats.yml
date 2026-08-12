@@ -3,7 +3,12 @@ name: Update GitHub Stats
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/stats.yml"
 
 permissions:
   contents: write
@@ -14,7 +19,8 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
+
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -24,12 +30,21 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=InfiniteSadnessLoop&layout=compact&theme=dark&hide_border=true&langs_count=8
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+
+      - name: Generate GitHub Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=InfiniteSadnessLoop&theme=dark&hide_border=true&disable_animations=true
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
