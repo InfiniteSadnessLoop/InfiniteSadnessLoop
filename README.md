@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="Psyduck.jpg" width="350" alt="Psyduck">
+  <img src="./Psyduck.jpg" width="350" alt="Psyduck" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tarek Hossain</h1>
-<h3 align="center">Computer Science Student @ BRAC University</h3>
+
+<h3 align="center">
+  Computer Science Student @ BRAC University
+</h3>
 
 ---
 
@@ -21,7 +24,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,php,mongodb,git,github,vscode" alt="Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=python,c,html,css,php,mongodb,git,github,vscode"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
@@ -39,21 +45,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=InfiniteSadnessLoop&show_icons=true&theme=dark&hide_border=true"
+    src="./profile/stats.svg"
     width="49%"
     alt="Tarek's GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteSadnessLoop&layout=compact&theme=dark&hide_border=true"
-    width="37%"
+    src="./profile/top-langs.svg"
+    width="49%"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=InfiniteSadnessLoop&theme=dark&hide_border=true"
+    src="./profile/streak.svg"
     width="60%"
     alt="GitHub Streak"
   />
@@ -65,9 +71,26 @@
 
 <p align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tarekhossain.tarek.731)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_fighting_demons_999/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-hossain-wrld)
+<a href="https://www.facebook.com/tarekhossain.tarek.731">
+  <img
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
+</a>
+
+<a href="https://www.instagram.com/_fighting_demons_999/">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/tarek-hossain-wrld">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
 </p>
 
