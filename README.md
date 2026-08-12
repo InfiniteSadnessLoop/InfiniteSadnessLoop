@@ -1,11 +1,9 @@
-
 <p align="center">
   <img src="Psyduck.jpg" width="350" alt="Psyduck">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tarek Hossain</h1>
 <h3 align="center">Computer Science Student @ BRAC University</h3>
-
 
 ---
 
@@ -22,8 +20,8 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,php,mongodb,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,php,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -40,22 +38,41 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=InfiniteSadnessLoop&show_icons=true&theme=dark&hide_border=true" width="49%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=InfiniteSadnessLoop&show_icons=true&theme=dark&hide_border=true"
+    width="49%"
+    alt="Tarek's GitHub Stats"
+  />
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=InfiniteSadnessLoop&layout=compact&theme=dark&hide_border=true" width="37%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteSadnessLoop&layout=compact&theme=dark&hide_border=true"
+    width="37%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfiniteSadnessLoop&theme=dark&hide_border=true" width="60%" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=InfiniteSadnessLoop&theme=dark&hide_border=true"
+    width="60%"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
+
 ## 🤝 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/tarekhossain.tarek.731)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/_fighting_demons_999/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](www.linkedin.com/in/tarek-hossain-wrld)
+<p align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tarekhossain.tarek.731)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_fighting_demons_999/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-hossain-wrld)
+
+</p>
 
 ---
 
-> *"Code. Learn. Build. Improve."* 🚀
+<p align="center">
+  <i>"Code. Learn. Build. Improve."</i> 🚀
+</p>
